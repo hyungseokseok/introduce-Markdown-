@@ -1,6 +1,7 @@
 # introduce-Markdown-
 ![33](https://user-images.githubusercontent.com/43811244/46408022-b7819e80-c74b-11e8-9441-cbf9e1089915.jpg)
-1.장형석   
+
+ 1.장형석   
   - 취미
     - 게임
     - 롤     
